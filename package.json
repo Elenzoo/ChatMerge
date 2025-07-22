@@ -2,7 +2,7 @@
   "name": "chatmerge",
   "version": "1.0.0",
   "description": "ChatMerge App - Twitch & YouTube chat combiner",
-  "main": "public/ChatApp/main.js",
+  "main": "server.js",
   "scripts": {
     "start": "electron .",
     "server": "node server.js"
